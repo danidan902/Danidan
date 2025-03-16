@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Danidan/static/css/main.94a093e8.css",
+    "main.css": "/Danidan/static/css/main.3cda2ba9.css",
     "main.js": "/Danidan/static/js/main.5430ba09.js",
     "static/js/488.9c92ff38.chunk.js": "/Danidan/static/js/488.9c92ff38.chunk.js",
     "static/media/slash.jpg": "/Danidan/static/media/slash.8d7db7a272551fdaff35.jpg",
@@ -17,12 +17,12 @@
     "static/media/blue00.jpg": "/Danidan/static/media/blue00.c36b5b039730b28f4fca.jpg",
     "static/media/site7.jpg": "/Danidan/static/media/site7.05741fb746534a1b6f69.jpg",
     "index.html": "/Danidan/index.html",
-    "main.94a093e8.css.map": "/Danidan/static/css/main.94a093e8.css.map",
+    "main.3cda2ba9.css.map": "/Danidan/static/css/main.3cda2ba9.css.map",
     "main.5430ba09.js.map": "/Danidan/static/js/main.5430ba09.js.map",
     "488.9c92ff38.chunk.js.map": "/Danidan/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94a093e8.css",
+    "static/css/main.3cda2ba9.css",
     "static/js/main.5430ba09.js"
   ]
 }
