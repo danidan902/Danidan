@@ -80,9 +80,11 @@ nav ul {
    /* padding: 100px; */
    top: 0;
    display: flex;
-   margin-top: 90px;
+   margin-top: 80px;  
    opacity: 0; 
     animation: slide-in 0.5s ease-out forwards;
+    align-items: center;
+    justify-content: space-between;
 
 }
 .change-text{
@@ -149,10 +151,10 @@ nav ul {
     align-items: center;
 }  
 .control{
-    width: 30rem;
-    height: 550px;
+    width: 40%;
+    height: 34.375rem;
     background-color: #000000;
-    margin-top: 200px;
+    margin-top: 12.5rem;
     margin-left: 38rem;
     display: flex;
     position: absolute;
@@ -171,8 +173,8 @@ nav ul {
     
 }
 .image-back{
-    width: 50rem;
-    height: 600px;
+    width: 66.67%;
+    height: 37.5rem;
     margin-left: 80px;
     margin-top: 100px;
     /* padding: 10px; */
@@ -197,8 +199,8 @@ nav ul {
   .button{
     
     position: absolute;
-    margin-top: 450px;
-    width: 150px;
+    margin-top: 32rem;
+    width: 15rem;
     height: 60px;
     border-radius: 10px;
     padding: 10px 20px;
@@ -211,8 +213,10 @@ nav ul {
     transition: transform 0.09s, box-shadow 0.6s; 
 
     margin-left: auto; /* Center the element */
-    margin-right: auto
+    margin-right: auto;
     
+    align-items: center;
+    justify-content: space-between;
 }
     
 .button:hover {  
@@ -229,20 +233,20 @@ nav ul {
 }
 .display{
     width: 100%;
-    height: 300px;
+    height: 24rem;
     background-color: #000000;
     position: absolute;
     margin-top: 200px;
     display: flex;
 }
  .cont{
-    width: 500px;
-    height: 400px;
+    width: 26.04%;
+    height: 25rem;
    
  }
  .second-image{
     width: 100%;
-    height: 800px;
+    height: 50rem;
     background-color: #ffffff;
     padding: 40px; 
     display: flex;
@@ -277,15 +281,15 @@ nav ul {
  }
  .nav-text{
     display: flex;
-    margin-top: 100px;
+    margin-top: 6.25rem;
     position:absolute ;
-    margin-left: 100px;
+    margin-left: 6.25rem;
     font-weight: bold;
  }
  .web-nav{
     display: flex;
-    margin-top: 250px;
-    margin-left: 680px;
+    margin-top: 15.625rem;
+    margin-left: 40.625rem;
     position: absolute;
     font-weight: 500;
     line-height: 1.7;
@@ -293,28 +297,28 @@ nav ul {
  .nav-web{
     display: flex;
     position: absolute;
-    margin-left: 720px;
-    margin-top: 150px;
+    margin-left: 45rem;
+    margin-top: 9.375rem;
     font-weight: bold;
  }
  .last-div{
     width: 100%;
-    height: 500px;
+    height: 31.25rem;
     background-color: #044181;
-    margin-top: 450px;
+    margin-top: 28.125rem;
     display: flex;
  }
  .contact-me{
-    margin-top: 330px;
+    margin-top: 20.625rem;
     display: flex;
     color: #1a1616;
-    margin-left: 50px;
+    margin-left: 3.125rem;
     position: absolute;
     display: flex;
     font-weight: bold;
  }
  .nav-aboute{
-    height:600px ;
+    height:37.5rem;
     width: 100%;
     background-color: #554545;
     position: absolute;  
@@ -323,8 +327,8 @@ nav ul {
  .aboute{
     background-color: #044181;
     width: 100%;
-    margin-top: 80px;
-    height: 1400px;
+    margin-top: 5rem;
+    height: 87.5rem;
     font-family: Arial, sans-serif;  
     justify-content: center;  
     align-items: center;
@@ -338,8 +342,8 @@ nav ul {
     border-radius: 8px;  
     box-shadow: 0 4px 8px rgb(198, 202, 198);  
     transition: transform 0.9s; 
-    margin-left: 750px;
-    margin-top: 200px;
+    margin-left: 45rem;
+    margin-top: 12.5rem;
     padding: 5px;
 
     
@@ -352,8 +356,8 @@ nav ul {
    
     transition: transform 0.9s; 
     display: flex;
-    margin-left: 420px;
-    margin-top: 200px;
+    margin-left: 23rem;
+    margin-top: 12.5rem;
     padding: 5px;
    
     
@@ -365,10 +369,10 @@ nav ul {
     box-shadow: 0 4px 8px rgb(198, 202, 198); 
     transition: transform 0.9s; 
     display: flex;
-    margin-left: 85px;
-    margin-top: 200px;
+    margin-left: 2rem;
+    margin-top: 12.5rem;
     padding: 5px;
-   
+
 }
 .card-2:hover {  
     transform: scale(1.05); 
@@ -387,7 +391,7 @@ nav ul {
    
 } 
 .card-5{
-    margin-left: 85px;
+    margin-left: 2rem;
     padding: 5px;
     background-color:  #001429;
     position: absolute;
@@ -395,10 +399,10 @@ nav ul {
     box-shadow: 0 4px 8px rgb(198, 202, 198); 
     transition: transform 0.9s; 
     display: flex;
-    margin-top: 750px;
+    margin-top: 45rem;
 }
 .card-6{
-    margin-left: 420px;
+    margin-left: 23rem;
     padding: 5px;
     background-color:  #001429;
     position: absolute;
@@ -406,11 +410,11 @@ nav ul {
     box-shadow: 0 4px 8px rgb(198, 202, 198); 
     transition: transform 0.9s; 
     display: flex;
-    margin-top: 750px;
+    margin-top: 45rem;
 
 }
 .card-7{
-    margin-left: 750px;
+    margin-left: 45rem;
     padding: 5px;
     background-color:  #001429;
     position: absolute;
@@ -418,7 +422,7 @@ nav ul {
     box-shadow: 0 4px 8px rgb(198, 202, 198); 
     transition: transform 0.9s; 
     display: flex;
-    margin-top: 750px;
+    margin-top: 45rem;
 }
 .card-6:hover {  
     transform: scale(1.05); 
@@ -457,10 +461,10 @@ nav ul {
 .social-media-icons {  
     color: #D3D3D3;  
     text-shadow: #D3D3D3;  
-    margin-top: 1300px;  
+    margin-top: 81.25rem;  
     display: flex;  
     position: absolute;  
-    margin-left: 450px;  
+    margin-left: 28.125rem;  
     gap: 50px;  
     opacity: 0; 
     animation: slide-in 0.5s ease-out forwards; 
@@ -478,23 +482,23 @@ nav ul {
 }
 
 .selacted22{
-    width: 500px;
-    height: 650px;
+    width: 50%;
+    height: 40.625rem;
     background-size: cover;
     padding: 0.3px;
-    margin-top: 200px;
+    margin-top: 12.5rem;
     margin-left: 30px;
     opacity: 0;
     animation: slide-in 0.5s ease-out forwards;
  }
 
 .image-dot{
-    width: 500px;
-    height: 650px;
+    width: 50%;
+    height: 40.625rem;
     background-size: cover;
-    padding: 0.3px;
-    margin-top: 200px;
-    margin-left: 30px;
+    padding: 0.03px;
+    margin-top: 12.5rem;
+    margin-left: 2rem;
     opacity: 0;
     animation: slide-in 0.5s ease-out forwards;
 }
@@ -514,7 +518,7 @@ nav ul {
 
 .Portfolio{
     width: 100%;
-    height: 900px;
+    height: 56.25rem;
     background-image: url('./image2/bin.jpg');
     background-position: center;
     background-size: cover;
@@ -531,27 +535,27 @@ nav ul {
     border: none;
     height: 1px;
     background: linear-gradient(to right, #ffffff, #ffffff);
-    margin-top: 220px;
-    margin-left: 30px;
+    margin-top: 13.75rem;
+    margin-left: 1.875rem;
     
  }
 .label2{
-    margin-top: 150px;
+    margin-top: 9.375rem;
 }
  .label{
     color: #D3D3D3;
-    margin-top: 70px;
+    margin-top: 4.375rem;
     display: flex;
     position: absolute;
-    margin-left: 90px;
+    margin-left: 5.625rem;
     font-weight: bold;
  }
  .project{
-    margin-top: 120px;
+    margin-top: 7.5rem;
     color: #D3D3D3;
     display: flex;
     position: absolute;
-    margin-left: 100px;
+    margin-left: 6.25rem;
     font-weight: bold;
 
  }
@@ -560,31 +564,31 @@ nav ul {
     position: absolute;
     color: #D3D3D3;
     font-weight: bold;
-    margin-top: 70px;
-    margin-left: 500px;
+    margin-top: 4.375rem;
+    margin-left: 31.25rem;
  }
  .Brand-web{
     display: flex;
     position: absolute;
     font-weight: bold;
     color: #D3D3D3;
-    margin-top: 120px;
-    margin-left: 520px;
+    margin-top: 7.5rem;
+    margin-left: 32.5rem;
  }
  .contact-us{
     display: flex;
     position: absolute;
     font-weight: bold;
     color: #D3D3D3;
-    margin-top: 70px;
-    margin-left: 900px;
+    margin-top: 4.375rem;
+    margin-left: 56.25rem;
  }
  .phone{
     display: flex;
     position: absolute;
     font-weight: bold ;
-    margin-left: 950px;
-    margin-top: 120px;
+    margin-left: 59.375rem;
+    margin-top: 7.5rem;
     cursor: pointer;
     color: #D3D3D3;
  }
@@ -592,24 +596,24 @@ nav ul {
          display: flex;
          position: absolute;
          font-weight: bold ;
-         margin-left: 950px;
-         margin-top: 150px;
+         margin-left: 59.375rem;
+         margin-top: 9.375rem;
          cursor: pointer;
          color: #D3D3D3;
  }
 .footer-web{
-      margin-top: 450px;
+      margin-top: 28.124rem;
       color:#D3D3D3;
-      margin-left: 400px;
+      margin-left: 25rem;
       font-weight: bold;
 }
 .social-media{
      color: #D3D3D3;  
      text-shadow: #D3D3D3;  
-     margin-top: 350px;  
+     margin-top: 21.875rem;  
      display: flex;  
      position: absolute;  
-     margin-left: 100px;  
+     margin-left: 6.25rem;  
      gap: 20px;  
      opacity: 0; 
      animation: slide-in 0.5s ease-out forwards;
@@ -618,29 +622,30 @@ nav ul {
 .Social-Networks{
           display: flex;
           position: absolute;
-          margin-top: 310px;
+          margin-top: 19.375rem;
          text-shadow: #D3D3D3; 
          color: #D3D3D3; 
          font-weight:bold ;
-         margin-left: 100px;
+         margin-left: 6.25rem;
 }
 .Google-map{
-    margin-top: 220px;
+    margin-top: 13.75rem;
     display: flex;
-    width: 100px;
-    height: 280px;
+    width: 6.25rem;
+    height: 17.5rem;
     position: absolute;
-    margin-left: 800px;
+    margin-left: 50rem;
     }  
     .top-1{
         width: 100%;
         height: 100%px;
-        background-image: url('./image2/site7.jpg');
+        /* background-image: url('./image2/site7.jpg'); */
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
         margin-top: 10px;
         padding: 2px;
+        background-color:  #F8F4E9;
         
 
         
@@ -849,7 +854,30 @@ nav ul {
      margin-left: 840px;  
      gap: 25px;  
      opacity: 0; 
-     animation: slide-in 0.5s ease-out forwards;
-        
-    
+     animation: slide-in 0.5s ease-out forward
     }
+
+
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  /* Mobile styles */
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column; /* Stack items vertically */
+      align-items: center; /* Center items */
+    }
+  
+    .navbar a {
+      display: block; /* Ensure links are visible */
+      margin: 5px 0; /* Add spacing between links */
+    }
+  }
+   
+
+ 
