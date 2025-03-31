@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Danidan/static/css/main.ef94491f.css",
-    "main.js": "/Danidan/static/js/main.bffcf066.js",
+    "main.css": "/Danidan/static/css/main.8d622b83.css",
+    "main.js": "/Danidan/static/js/main.67865487.js",
     "static/js/488.9c92ff38.chunk.js": "/Danidan/static/js/488.9c92ff38.chunk.js",
     "static/media/slash.jpg": "/Danidan/static/media/slash.8d7db7a272551fdaff35.jpg",
     "static/media/dg.jpg": "/Danidan/static/media/dg.b884a8379e5b0b20778e.jpg",
@@ -16,12 +16,12 @@
     "static/media/note.jpg": "/Danidan/static/media/note.d1ff635a064f70e25516.jpg",
     "static/media/blue00.jpg": "/Danidan/static/media/blue00.c36b5b039730b28f4fca.jpg",
     "index.html": "/Danidan/index.html",
-    "main.ef94491f.css.map": "/Danidan/static/css/main.ef94491f.css.map",
-    "main.bffcf066.js.map": "/Danidan/static/js/main.bffcf066.js.map",
+    "main.8d622b83.css.map": "/Danidan/static/css/main.8d622b83.css.map",
+    "main.67865487.js.map": "/Danidan/static/js/main.67865487.js.map",
     "488.9c92ff38.chunk.js.map": "/Danidan/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef94491f.css",
-    "static/js/main.bffcf066.js"
+    "static/css/main.8d622b83.css",
+    "static/js/main.67865487.js"
   ]
 }
